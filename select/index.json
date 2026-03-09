@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Lucky Days",
+  "base_artist": "Haruka Fukuhara",
+  "createdAt": "2026-03-09T11:18:21.663678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lucky Days",
+      "artist": "SS501",
+      "has_synced": true,
+      "path": "select/01_Lucky_Days_SS501.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lucky Days",
+      "artist": "Sasha",
+      "has_synced": true,
+      "path": "select/02_Lucky_Days_Sasha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lucky Days",
+      "artist": "福原 遥, OKAMOTO'S",
+      "has_synced": true,
+      "path": "select/03_Lucky_Days_福原_遥,_OKAMOTO'S.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lucky Days",
+      "artist": "福原 遥",
+      "has_synced": true,
+      "path": "select/04_Lucky_Days_福原_遥.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lucky Days feat. OKAMOTO'S",
+      "artist": "福原遥",
+      "has_synced": false,
+      "path": "select/pl_01_Lucky_Days_feat._OKAMOTO'S_福原遥.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Lucky Days feat. OKAMOTO'S",
+      "artist": "福原遥",
+      "has_synced": false,
+      "path": "select/pl_02_Lucky_Days_feat._OKAMOTO'S_福原遥.txt"
+    }
+  ]
+}
